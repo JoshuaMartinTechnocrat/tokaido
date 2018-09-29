@@ -2,6 +2,7 @@
 
 - Tokaido now uses a globally-resolvable *.local.tokaido.io domain. Manipulation of your local hosts file is no longer necessary. Thanks @garrettw! 
 - Version-locked Yamamnote to 1.0.0
+- Fixed a bug where a failure to install unison-fsmonitor was silently ignored. 
 
 ## 1.1.2
 
